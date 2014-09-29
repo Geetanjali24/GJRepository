@@ -2,7 +2,7 @@
 public class subtraction {
 	public static void main(String[] args)
 	{
-	int input = 1500;
+	int input = 1501;
 	int finalResult = summation(input);
 	}
 public static int summation(int n)
